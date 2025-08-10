@@ -2,8 +2,8 @@
 An interactive Power BI dashboard analyzing coffee shop sales. Built with MySQL, Excel, and Power BI to extract key insights and drive data-led decisions.
 
 ## Files Included
-- `Coffee Shop Sales.xlsx` – Source transaction dataset  
-- `MY SQL Queries.docx` – MySQL scripts for data cleaning and KPI generation
+- `Coffee Shop Sales.xlsx - Transactions.csv` – Source transaction dataset  
+- `Mysql Queries.docx` – MySQL scripts for data cleaning and KPI generation
 -  `Coffee Shop Sales - Dashboard.pbix` – Power BI dashboard file 
 - `Coffee Shop - Dashboard.pdf` – Exported dashboard for quick preview
   
