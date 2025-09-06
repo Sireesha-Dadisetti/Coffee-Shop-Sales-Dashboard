@@ -23,5 +23,3 @@ An interactive Power BI dashboard analyzing coffee shop sales. Built with MySQL,
 <img width="1236" height="762" alt="Coffee Shop Sales - Dashboard" src="https://github.com/user-attachments/assets/73c210c3-238e-4334-99a3-fb8a98091030" />
 
 
-## Credits
-Portfolio project created for learning and skill development. Based on concepts from a YouTube Power BI tutorial and personalized with MySQL-powered data processing.
